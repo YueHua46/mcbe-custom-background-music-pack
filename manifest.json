@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "custom_background_music_pack",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "description": "自定义背景音乐包",
+        "uuid": "c4628853-6f6d-4ef1-8c45-323be1e6faae",
+        "min_engine_version": [
+            1,
+            20,
+            41
+        ]
+    },
+    "modules": [
+        {
+            "description": "自定义背景音乐包",
+            "type": "resources",
+            "uuid": "edcea137-fb9d-42cf-8fd4-c4a8e2fbc764",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
