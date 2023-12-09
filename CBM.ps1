@@ -30,7 +30,7 @@ $sounds = @()
 for ($i = 0; $i -lt $fileLength; $i++) {
     $sounds += @{
         load_on_low_memory = $true
-        name = "sounds/music/game/$i.ogg"
+        name = "sounds/music/game/$i"
         stream = $true
         volume = 0.30
     }

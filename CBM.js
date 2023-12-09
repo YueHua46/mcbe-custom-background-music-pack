@@ -51,7 +51,7 @@ async function renameAndReconfigureSounds() {
     for (let i = 0; i < fileLength; i++) {
       sounds.push({
         load_on_low_memory: true,
-        name: `sounds/music/game/${i}.ogg`,
+        name: `sounds/music/game/${i}`,
         stream: true,
         volume: 0.30
       });

@@ -1,1 +1,115 @@
-{"format_version":"1.20.41","sound_definitions":{"music.game":{"__use_legacy_max_distance":"true","category":"music","max_distance":null,"min_distance":null,"sounds":[{"load_on_low_memory":true,"name":"sounds/music/game/0.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/1.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/2.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/3.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/4.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/5.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/6.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/7.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/8.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/9.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/10.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/11.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/12.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/13.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/14.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/15.ogg","stream":true,"volume":0.3},{"load_on_low_memory":true,"name":"sounds/music/game/16.ogg","stream":true,"volume":0.3}]}}}
+{
+  "format_version": "1.20.20",
+  "sound_definitions": {
+    "music.game": {
+      "__use_legacy_max_distance": "true",
+      "category": "music",
+      "max_distance": null,
+      "min_distance": null,
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/0",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/1",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/2",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/3",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/4",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/5",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/6",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/7",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/8",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/9",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/10",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/11",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/12",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/13",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/14",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/15",
+          "stream": true,
+          "volume": 0.3
+        },
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/music/game/16",
+          "stream": true,
+          "volume": 0.3
+        }
+      ]
+    }
+  }
+}
