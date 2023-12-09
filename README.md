@@ -36,5 +36,6 @@ windows在包的根目录下执行powershell脚本：
 
 选中`sounds`文件夹、`manifest.json`文件、以及`pack_icon.png`文件
 然后右键选择压缩为zip，然后更改压缩文件名为：`custom_music.mcpack`
-这里要注意![Alt text](image-1.png)
-把文件扩展名打开来改
+这里要注意把文件扩展名打开再来改
+![Alt text](image-1.png)
+
